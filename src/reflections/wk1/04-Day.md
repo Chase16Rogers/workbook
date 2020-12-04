@@ -15,7 +15,7 @@ In writing, you start with a rough draft, just putting ideas on paper. Then thro
 
   Medium fidelity is like the best of both worlds. It's a low commitment wire-frame, you spend less than an hour on it, but it shows you exactly what elements go where. Maybe you don't use the exact colors and specific fonts you'll use in your final webpage, but you can establish prominince. This one is particularly good because it really starts bringing things together. It didn't take very much time, so changes aren't too unreasonable, but it looks good enough to really establish, and provide a solid backbone to the formatting, the div-ing of the html.
 
-  #### High-fi<strike>ve</strike>
+  #### High-fi<strike style="color:red">ve</strike>
 
   High fidelity is high detail. It's pretty much a mock of what exactly the webpage will look like. This is the kind of wire-frame a design team gives the developers to recreate. It details even the more comlicated aspects, taking away any guesswork. 
 
