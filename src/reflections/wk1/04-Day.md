@@ -5,8 +5,8 @@ __12/3/20__
 
 In writing, you start with a rough draft, just putting ideas on paper. Then through editing and revision the draft loses it's roughness until you are left with a "smooth" draft. In essence a wireframe is the rough draft of a website. It lets the developer visualize what the site might look like so they have a place to start. More and more I've come to realize the importance of having a plan and good structure, the first project I did by "myself" (BoiseCodeworks did almost all of the layout) amd the little bit of html I had to write was just a mess of divs, I couldn't get half of the classes I used to actually do what they were meant to do. If I had planned ahead better, thought through exactly how I want everything to work, then maybe I would've been more pleased with the final product. 
 
-## A good wire-frame is like a good pair of headphones
-
+## A good wire-frame is like a good pair of headphones 
+<small>Strictly in the sense that headphones also use fidelity as a descriptor</small>
   #### Low-fi
 
   Low fidelity is the simplest most basic fidelity of the fidelities. It was described as a quick drawing on a piece of paper. This is really only good for large content. Like where you want to put an image, or where text should go. This is good for large decision making, and comunicating with our less tech savy brethren. Instead of trying to describe the image in our head we can just draw it. 
