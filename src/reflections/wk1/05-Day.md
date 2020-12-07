@@ -1,4 +1,6 @@
 # Day 5
 __12/4/20__
 
-##
+## Rambling Reflections
+
+This marks the end of my first week learning to code at BoiseCodeworks, and honestly I'm even more excited than I was before starting the program. The rush I feel everytime I learn something new, and then actually use it is insane. It's interesting thinking back (already) to how far I've come, in a strictly design aspect, from the struggles I experienced with the moody kittens project. For the life of me I couldn't get things to nest properly, I would add a class to an element, for nothing to happen, so I spammed more than one class just going up until something clicked. But working on the checkpoint I was actually able to understand what I was doing, and if it disn't work I could actually guess what the problem was, and actually do something about it. So far the pace has been very easy to keep along with, and I find myself struggling to relate with the downs (struggles) some of my peers have vocalized. I'm excited to see what next week will bring, actually stepping into javascript. I hope my understanding grows with JS as much as it did with CSS and HTML this week. Because there were several points in the Moody Kittens project where I only vaguely understood why some of it worked, and I feel like I had to trip and stumble into a workable solution too often. One of my biggest concerns is the group aspects of this course, but so far, working with Vincent on thursday was actually rather enjoyable. It will be interesting to see how working together continues to develop, and where I fit in all of this. 
