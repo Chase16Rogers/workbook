@@ -20,4 +20,4 @@ __12/08/20__
 
   ## Higher functions
 
-  Higher functions are functions that use another function. The only ones I currently am familiar with are the ones pre-built into JavaScript. Like .find() findIndex() and forEach(). I also have .map() and .filter() in my notes with some basic use cases, but I'm not as comfortable with those yet. For .find(), we create a function that targets and returns the specific object/property we want to find. 
+  Higher functions are functions that use another function. The only ones I currently am familiar with are the ones pre-built into JavaScript. Like .find() findIndex() and forEach(). I also have .map() and .filter() in my notes with some basic use cases, but I'm not as comfortable with those yet. For .find(), we create a function that targets and returns the specific object/property we want to find.
