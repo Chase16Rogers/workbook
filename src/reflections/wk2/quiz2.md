@@ -58,12 +58,12 @@ Document Object Model, the html is first accessed and the foundation of the DOM.
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+undefined, boolean, number, string, bigint, symbol, object, function, null
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-undefined, boolean, number, string, bigint, symbol, object, function, null
+parameter is similar to a variable, you use it in the function. An argument is the value the parameters recieves and applies to the function.
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
