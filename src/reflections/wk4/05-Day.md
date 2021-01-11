@@ -7,3 +7,4 @@ This week felt, honestly incredibly slow. We were introduced to a very small num
 
 ## Afternoon Challenge (Checkpoint)
 
+https://chase16rogers.github.io/inspire-checkpoint/
