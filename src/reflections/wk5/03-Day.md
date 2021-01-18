@@ -11,6 +11,7 @@ A sub-document is useful in cases where the number of relationships is limited. 
 
 ## Diggy Diggy Document
 
-Mongoose sub-documents behave in the exact same way as javascript objects. You would have to drill into the initial object, specify where the subdocument belongs. " object.property " || "object[index]", the value of the property that houses a sub-document is an array so you would use an array method to actually interract with the sub-document. " object.property.push(newSubDocument) ". This process seems rather simple, because it is what we already know from vanilla javascript.
+Mongoose sub-documents behave in the exact same way as javascript objects. First, you have to find the object you want to alter. Then you would have to drill into the object to specify which property the subdocument belongs on. " object.property || object[index]", the value of the property that houses a sub-document is an array so you would use an array method to actually interract with the sub-document. " object.property.push(newSubDocument) ". This process seems rather simple, because it is what we already know from vanilla javascript.
 
 ## Afternoon Challenge
+https://github.com/Chase16Rogers/planetary-relations

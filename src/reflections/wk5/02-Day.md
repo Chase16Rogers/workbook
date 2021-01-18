@@ -19,3 +19,4 @@ Ultimately the amount of data, and how they interconnect is the deciding factor 
 
 ## Afternoon Challenge
 
+https://github.com/Chase16Rogers/fullstack-gregslist

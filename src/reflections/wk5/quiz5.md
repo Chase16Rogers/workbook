@@ -33,21 +33,21 @@ let Schema = ________.Schema;
 ```
 <!-- enter you answer in the space below -->
 ```
-
+mongoose mongoose mongoose
 ```
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
 ```
-
+It is third party software that processes a request before it is proceessed by a server.
 ```
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-
+Request, response
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-
+?tag=winter
 ```
