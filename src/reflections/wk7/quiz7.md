@@ -4,18 +4,18 @@
 **1.** Describe the two ways to bind Data in Vue?
 <!-- enter you answer in the space below -->
 ```
-
+you can bind a property using :prop, or you can simply {{variable}}
 ```
 
 **2.** The `SPA` acronym stands for what?
 <!-- enter you answer in the space below -->
 ```
-
+Single Page Application
 ```
 **3.** What are some of the advantages/uses of a `SPA` over a traditional one?
 <!-- enter you answer in the space below -->
 ```
-
+Less network requests, which means it is able to render much faster, you can keep values in local variables on the application, and it is overall an easier process, at least using a good framework.
 ```
 **4.** What does the `onMounted` method in Vue do?
 <!-- enter you answer in the space below -->
