@@ -3,7 +3,7 @@ __01/15/21__
 
 ## Ramblings
 
-My thoughts on vue are overall very positive. Almost every struggle I was having with front-end development was blown away. Doing the checkpoint, things seemed to really click. I was evem enjoying the css. I won't say that I am perfectly comfortable or that my knowledge of vue is indomitable, but I think it was pretty easy to understand and implement. Especially when I recall the struggles I had with wrapping my head around the MVC pattern. I did have some trouble with scss not implementing, then the style tags wouldn't scope globally so I ended up copy pasting an unfortunate amount of styling. And some of the functions were a little clunky around the edges but I would say I'm pretty proud of what I was able to accomplish.
+Overall this week went very well. I entered the week with a lot of anxiety, who would I partner with, how would we work together? I am extremely introverted so it's always a challenge spending such a large amount of time with a person that I don't really have the time to get to know. With this as well we both are at the same point where we only barely know what we are dong, so neither of us could particularly steer the group. Of course that didn't stop me because my "proffessional" persona is a rather bossy person who likes to take the lead. I felt like I steam rolled my partner for a lot of the project, but I wouldn't know how else to approach the assignment or handle myself in a situation where my partner isn't able (or willing?) to push back against my 'get it done' personality. Probably something for me to work on going forward, but we did get it done.
 
 ## Afternoon Challenge (Checkpoint)
 
