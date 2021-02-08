@@ -43,5 +43,5 @@ Always/ at the end of a sprint
 **9.** What is the term used to define combining two branches?
 <!-- enter you answer in the space below -->
 ```
-merginf
+merge
 ```
