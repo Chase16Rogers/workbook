@@ -1,0 +1,14 @@
+# Day 1
+__02/08/21__
+
+## What technologies and principles are you using in your project?
+
+Technologically speaking we are using the tools that have already been provided to us by BoiseCodeworks, from Vue to Node.js. We are planning on incorporating a simple google maps integration into our project to allow a user to search for businesses by location, either near the user's location or else by city. Auth0 was incorporated early on, mongoDB is hosting our collections, we will deploy to herokuapp once we reach a point that it makes sense to deploy. We have taken an unfortunately loose interpretation of scrum into our project. We have good communication and we hold a sort of standup where we determine what needs to get done that day, and who's doing what to meet our goals. We have split into two teams so it is more coordinating based on page, and we have made excellent progress so far. Maybe we should limit our communication more during work, but if my group has a question (or vice versa) we just bring it up to the group to be resolved at that time instead of waiting for the road blocks portion of standup.
+
+## What went well so far?
+
+We were able to narrow down what we wanted from this application pretty quickly. We were able to create an effective and thurough plan for what we would need. Upon presenting to the panel of senior devs we were told that we had a good plan, but our design stunk. As a group we were able to define two "very" seperate paths that our application needs to take and have been able to split the work incredibly effectively, leading to few (if any) merge conflicts when pushing and pulling from our github development branch. The two groups that we've split into also work very well together and we have been just churning out functional pages bringing us toward our MVP at a reasonable pace. Our planning was thurough enough that we were able to write the server very quickly, and have had to make relatively few changes as we've progressed through our application. We have some documentation in an api guide that has made axios requests an absolute breeze. Finally after being told our design was no good we came up with a very thurough and nice design that has made the actual coding process much faster.
+
+## What would you do differently? Why?
+
+My biggest regret at this point was how lightly I took the initial figma design. Our first day while we were trying to figure things out I ended up taking reign of the figma, and had a good time of it, making a very McDonalds looking wireframe. I was a little bit proud of it, I thought the colors were a little intense, but that it would be easy to change them as we went along. In the meeting it was made clear that the wireframe is actually really important and I had made a bad showing for our group by not taking it seriously.
