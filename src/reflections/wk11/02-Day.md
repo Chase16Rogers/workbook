@@ -27,10 +27,10 @@ return _db.Query<DoctorPatientViewModel>(sql, new { id });
 - Then because we use dapper to sanitize our entries, it is more readable to bind the actual request before injecting.
 - My logical understanding starts with the FROM statement, here we reference the table that holds the relationship.
 - It then bounces down to the WHERE that specifies which collection is making the request. 
- - We have a doctor, and we want their patients, so we give it the doctor id, and pull all the relationships related to that particular doctor.
+  - We have a doctor, and we want their patients, so we give it the doctor id, and pull all the relationships related to that particular doctor.
 - Next we hit the JOIN statement. This goes to the patients table and pulls every patient who's Id is in the same relationship with the doctor's id.
- - It's here where it also references the SELECT line, that's what tells it to find every patient.
- - This is also what gives us the information by somehow appending the information it recieves to the relationship table that it gives us.
+  - It's here where it also references the SELECT line, that's what tells it to find every patient.
+  - This is also what gives us the information by somehow appending the information it recieves to the relationship table that it gives us.
 - Finally (for the injection) we attatch the relationship id to a child class of the original model who's only job is holding this property.
 - Last but not least we make the dapper query, we tell it to give us the child class I mentioned before, and give it the string we just made and the doctor's id so it can actually make the request. 
 ## Afternoon Challenge
