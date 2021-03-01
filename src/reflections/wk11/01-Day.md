@@ -15,4 +15,4 @@ Accessibility plays a pivotal role in inheritance as it strictly defines what a 
 
 ## Afternoon Challenge
 
-https://github.com/Chase16Rogers/inherit-vacation
+[https://github.com/Chase16Rogers/inherit-vacation](https://github.com/Chase16Rogers/inherit-vacation)

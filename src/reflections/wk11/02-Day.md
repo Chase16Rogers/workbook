@@ -9,7 +9,7 @@ A primary key is the key by which the data in the table will most commonly be re
 
 An alias is a second name that can be given to a binding. Typically much shorter than the actual name, like a single character. This can make it much faster/easier to write as you would only need a single character to reference the binding instead of writing out it's entire name. If done right it's supposed to even maintain readability, but at a glance it seems like the opposite. While it is reasonable to understand a single character references this conceptual list, quickly reading and trying to understand the code all of the single characters make it more convoluted, at least in my opinion.
 
-## Demonstrate how you would query a join statement that would get all of a doctors patients from the collection on the codeworks classroom.
+## Writing a join statement to get all the patients for a doctor.
 
 ```
 internal IEnumerable<Patient> GetPatientsByDoctor(int id)
