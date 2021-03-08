@@ -1,0 +1,6 @@
+# Day 5
+__02/19/21__
+
+## To vue or not to vue
+
+Having passed my final yesterday I spent the morning polishing it. I messed around with the css and added some hover animations, fleshed out all of the hoverable elements, finished importing and utilizing the colors from figma. I discovered the clearTimeout method, so I used that in conjunction with a timeout to control the modal opening on click. Because it's in tens of milliseconds my human eyes couldn't notice the difference from having no timeout and it solved all of my problems. Kind of a crappy solution but it worked so... Then spent the rest of the morning contemplating which template to use for my landing page. I went with a "vue create" with all the bells and whistles. Since it's such a simple application I tried to just jump into it, but it wasn't going well. So I made out a figma that I think is decent and made some decent progress on my landing page. I tried to imitate the instructors landing pages, mostly Mark's and Mick's since they are the most serious seeming. I think it will work for now but I'll definitely have to improve it as I become more competent in design.
